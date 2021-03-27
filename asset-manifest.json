@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/typingspeed/static/css/main.89032b2d.chunk.css",
+    "main.js": "/typingspeed/static/js/main.86b94430.chunk.js",
+    "main.js.map": "/typingspeed/static/js/main.86b94430.chunk.js.map",
+    "runtime-main.js": "/typingspeed/static/js/runtime-main.d22c3bb1.js",
+    "runtime-main.js.map": "/typingspeed/static/js/runtime-main.d22c3bb1.js.map",
+    "static/js/2.ce8846eb.chunk.js": "/typingspeed/static/js/2.ce8846eb.chunk.js",
+    "static/js/2.ce8846eb.chunk.js.map": "/typingspeed/static/js/2.ce8846eb.chunk.js.map",
+    "index.html": "/typingspeed/index.html",
+    "static/css/main.89032b2d.chunk.css.map": "/typingspeed/static/css/main.89032b2d.chunk.css.map",
+    "static/js/2.ce8846eb.chunk.js.LICENSE.txt": "/typingspeed/static/js/2.ce8846eb.chunk.js.LICENSE.txt",
+    "static/media/hero.96e141d3.png": "/typingspeed/static/media/hero.96e141d3.png",
+    "static/media/logo.904ac8fd.png": "/typingspeed/static/media/logo.904ac8fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d22c3bb1.js",
+    "static/js/2.ce8846eb.chunk.js",
+    "static/css/main.89032b2d.chunk.css",
+    "static/js/main.86b94430.chunk.js"
+  ]
+}
