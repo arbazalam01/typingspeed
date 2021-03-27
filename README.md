@@ -1,8 +1,8 @@
-#Typing Speed
+# Typing Speed
 
 An Application to test the typing speed of a user.
 
-#Tech Stack
+# Tech Stack
 1. ReactJs
 2. Javascript
 3. HTML
